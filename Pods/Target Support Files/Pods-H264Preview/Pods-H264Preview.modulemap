@@ -1,0 +1,6 @@
+framework module Pods_H264Preview {
+  umbrella header "Pods-H264Preview-umbrella.h"
+
+  export *
+  module * { export * }
+}
